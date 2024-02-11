@@ -1,7 +1,5 @@
 # CSE 536: (Assignment 1) A Tale of a Boot ROM and a Bootloader
 
-Please refer to the assignment handout posted on Canvas for a list of tasks.
-
 ### A. Installing xv6 pre-requisites (OPTIONAL)
 
 Please skip this step if you've already completed assignment #0. Reach out to the TAs if you have any installation issues or use the Apporto Cloud VMs.
