@@ -1,6 +1,5 @@
 # CSE 536: Assignment 2: Process Memory Management
 
-Please refer to the handout on Canvas.
 
 ## Acknowledgement
 
